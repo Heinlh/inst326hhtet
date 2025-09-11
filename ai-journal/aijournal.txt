@@ -1,1 +1,8 @@
-Ai text
+Ai Usage Journal
+Hein Htet
+hhtet@terpmail.umd.edu
+INST326
+Section 0302
+
+Week 1 
+This week I used AI to explain to me what object oriented programming is in a simple and digestible manner. I also asked AI to explain the concept of f strings and provide me with code examples in Python to me. Here is the link to my chat with AI: https://chatgpt.com/share/68c221c9-029c-8013-ab11-b8110d4a53f7.
