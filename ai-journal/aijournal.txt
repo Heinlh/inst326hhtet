@@ -6,3 +6,6 @@ Section 0302
 
 Week 1 
 This week I used AI to explain to me what object oriented programming is in a simple and digestible manner. I also asked AI to explain the concept of f strings and provide me with code examples in Python to me. Here is the link to my chat with AI: https://chatgpt.com/share/68c221c9-029c-8013-ab11-b8110d4a53f7.
+
+Week 2
+This week I used AI to write a Python script to clean some messy datasets that I have collected. My Python script cleans a user-specified CSV file by removing duplicate and incomplete rows, then saves the clean data to a new file and reports a summary of the changes. Here is the link to my chat with AI: https://chatgpt.com/share/68cc426e-822c-8013-b152-595d43ad849e
