@@ -12,3 +12,6 @@ This week I used AI to write a Python script to clean some messy datasets that I
 
 Week 3
 This week I used AI to generate an image of a Corgi. I was extremely detailed with my prompt because I wanted to recreate an image of a corgi i saw on google images via text to image generation. The google image i wanted to recreate was this one: https://share.google/images/gi7j3UQgMg2p65ko9 and I would say that the AI image was fairly similar to the google image I wanted to recreate, which goes to show how being detailed with prompting will yield you better results. Here is the link to my chat with AI: https://chatgpt.com/share/68d73a49-8a5c-8013-a1b8-5b93bdcbb7d3. 
+
+Week 4
+This week I used AI to explain to me the difference between what a class and an object is in an easy to understand manner. I also asked AI to provide examples to help me better understand what the difference between a class and an object is. Here is the link to my chat with AI: https://chatgpt.com/share/68e16d69-dac4-8013-90d6-e5e66fddfbee.
