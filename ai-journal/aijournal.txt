@@ -18,3 +18,6 @@ This week I used AI to explain to me the difference between what a class and an 
 
 Week 5
 This week I used AI to explain to me the basics of the Pandas library in Python as my group will be using that library for our group project for this INST 326 class. I asked AI to provide example use cases and code blocks for me to be able to easily understand the Pandas library. Here is my chat with AI: https://chatgpt.com/share/68e832ab-26cc-8013-8a81-0a3bfb1418a8
+
+Week 6
+This week I used AI to explain to me what class methods and static methods are tp better prepare me to do this week's assignment and projects. Here is my chat with AI: https://chatgpt.com/share/68fabac3-c7ec-8013-8dcd-03720addec51
