@@ -21,3 +21,6 @@ This week I used AI to explain to me the basics of the Pandas library in Python 
 
 Week 6
 This week I used AI to explain to me what class methods and static methods are tp better prepare me to do this week's assignment and projects. Here is my chat with AI: https://chatgpt.com/share/68fabac3-c7ec-8013-8dcd-03720addec51
+
+Week 7
+This week I used AI to explain to me how error handling works in Python. I asked AI this because I was struggling to understand the logic behind error handling and the explanation it provided really claririfed the concept for me. Here is my chat with AI: https://chatgpt.com/share/690132ae-b3c0-8013-882e-c59d7d2603da
