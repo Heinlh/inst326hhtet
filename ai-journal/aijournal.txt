@@ -27,3 +27,6 @@ This week I used AI to explain to me how error handling works in Python. I asked
 
 Week 8
 This week I used AI to explain the concept of inheritance, polymorphism and composition for object oriented programming in Python. I asked AI to also provide example use cases and code blocks to help me better understand these concepts. Here is my chat with AI: https://chatgpt.com/share/690ba97a-fe20-8013-a449-d80e306192c4
+
+Week 9
+This week I used AI to explain to me the concept of abstract base classes. I also asked AI to provide examples and a simple explanation to help me better understand these concepts. Here is my chat with AI: https://chatgpt.com/share/6913d152-c918-8013-b470-27bc97361642
