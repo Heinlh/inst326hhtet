@@ -30,3 +30,6 @@ This week I used AI to explain the concept of inheritance, polymorphism and comp
 
 Week 9
 This week I used AI to explain to me the concept of abstract base classes. I also asked AI to provide examples and a simple explanation to help me better understand these concepts. Here is my chat with AI: https://chatgpt.com/share/6913d152-c918-8013-b470-27bc97361642
+
+Week 10
+This week I used AI to list key things I should know learning Java and Javascript as someone who have mainly coded in Python. This is because I need to learn these 2 programming languages for my internship. Here is my chat with AI: https://chatgpt.com/share/691e5b90-201c-8013-8033-8ac9ab0a17c5
